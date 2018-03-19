@@ -45,7 +45,7 @@ table {
 .wrapper {
 	width: 1160px;
 	margin: auto;
-	padding-top: 100px;
+	padding-top: 80px;
 	position: relative;
 }
 
@@ -115,7 +115,7 @@ a:hover {
 }
 .main-txt {
 	margin-right: 160px;
-	margin-bottom: 70px;
+	margin-bottom: 90px;
 }
 .main-txt_lead {
 	font-size: 30px;
@@ -127,7 +127,8 @@ a:hover {
     width: 35px;
     height: 35px;
     margin-bottom: -8px;
-    margin-right: 4px;
+    margin-right: 2px;
+    margin-left: 3px;
 }
 .qlean-link {
 	color: #20A052;

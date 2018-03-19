@@ -47,7 +47,7 @@ $(document).ready(() => {
             ofEnd = $('.js-of').position().top + $('.js-of').height();
 
         if (position > iphoneAnimationStartPosition && position < iphoneAnimationEndPosition) {
-            console.log('start')
+        //    console.log('start')
             scrollIphone(iphoneAnimationStartPosition, iphoneAnimationEndPosition, iphonePosition);
         } else if (position > zpStartPosition) {
         //     console.log('stop')
