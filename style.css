@@ -138,7 +138,7 @@ aside img {
 }
 .notice {
 	color: #BEBEBE;
-	display: inline-block;
+	display: block;
 	padding-top: 10px;
 }
 .qlean_pic_web {
