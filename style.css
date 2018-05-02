@@ -382,7 +382,7 @@ aside p {
 		width: 100%;
 	}
 	.main {
-		padding-bottom: 10px
+		padding: 0 30px 30px;
 	}
 	p, .qlean_txt p, .zp p {
 		font-size: 25px;
