@@ -334,7 +334,7 @@ aside p {
 }
 @media only screen and (max-width: 980px) {
     .wrapper {
-	width: 320px;
+	width: 80%;
 	}
 	h1 {
 		font-size: 50px;
