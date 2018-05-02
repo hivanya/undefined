@@ -334,7 +334,7 @@ aside p {
 }
 @media only screen and (max-width: 980px) {
     .wrapper {
-		width: 80%;
+		width: 90%;
 	}
 	h1 {
 		font-size: 50px;
@@ -378,14 +378,18 @@ aside p {
 	}
 	.main-txt_lead {
 		font-size: 20px;
-		line-height: 35px;
+		line-height: 30px;
 		width: 100%;
 	}
 	p, .qlean_txt p, .zp p {
 		font-size: 20px;
-		line-height: 35px;
+		line-height: 30px;
 	}
 	.main {
 		padding: 0 30px 30px;
+	}
+	.copyright {
+		font-size: 20px;
+		line-height: 30px;	
 	}
 }
