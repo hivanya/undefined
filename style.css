@@ -366,10 +366,10 @@ aside p {
 		display: block;
 		padding-bottom: 30px
 	}
-	.qlean_txt{
+	.qlean_txt {
 		width: 100%;
 	}
-	p {
+	.qlean_txt p, .zp p {
 		font-size: 20px;
 		line-height: 35px;
 	}
