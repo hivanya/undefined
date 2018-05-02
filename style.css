@@ -341,6 +341,11 @@ aside p {
 		line-height: 55px;
 		margin-bottom: 20px;
 	}
+	h4 {
+		font-size: 25px;
+		line-height: 35px;
+		margin-bottom: 10px;
+	}
 	aside {
 		display: none;
 	}
@@ -353,27 +358,37 @@ aside p {
     	padding: 30px;
     	margin-bottom: 20px;
 	}
+	.zp {
+		background: #222;
+    	border-radius: 20px;
+    	padding: 30px;
+	}
+	.zp_about {
+		margin-right: 0px;
+	}
 	.main-txt {
 		margin-right: 0px;
 		margin-bottom: 0px;
 	}
+	.qlean_txt {
+		width: 100%;
+	}
+	.qlean_txt img {
+		width: 60%;
+	}
+	.app img {
+		width: 60%;
+	}
 	.main-txt_lead {
 		font-size: 20px;
 		line-height: 35px;
-		display: block;
 		width: 100%;
 	}
 	.main {
-		display: block;
 		padding-bottom: 10px
 	}
 	p, .qlean_txt p, .zp p {
 		font-size: 20px;
 		line-height: 35px;
-	}
-	.zp {
-		background: #222;
-    	border-radius: 20px;
-    	padding: 30px;
 	}
 }
