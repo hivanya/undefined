@@ -344,11 +344,12 @@ aside p {
 	aside {
 		display: none;
 	}
-	.qlean-link img, .qlean_pic_web, .qlean_pic_mobile, .qlean_order img, .qlean_order h3, .qlean_family, .qlean_family_txt, .zp_images{
+	.copyright, .of, .qlean-link img, .qlean_pic_web, .qlean_pic_mobile, .qlean_order img, .qlean_order h3, .qlean_family, .qlean_family_txt, .zp_images{
 		display: none;
 	}
 	.qlean {
 		padding-top: 10px;
+		padding-bottom: 50px;
 		border-top: 5px solid white;
 	}
 	.main-txt {
@@ -368,5 +369,9 @@ aside p {
 	p {
 	font-size: 20px;
 	line-height: 35px;
-}
+	}
+	.zp {
+		padding-top: 10px;
+    	border-top: 5px solid white;
+	}
 }
