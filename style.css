@@ -344,13 +344,14 @@ aside p {
 	aside {
 		display: none;
 	}
-	.copyright, .of, .qlean-link img, .qlean_pic_web, .qlean_pic_mobile, .qlean_order img, .qlean_order h3, .qlean_family, .qlean_family_txt, .zp_images{
+	.of, .qlean-link img, .qlean_pic_web, .qlean_pic_mobile, .qlean_order img, .qlean_order h3, .qlean_family, .qlean_family_txt, .zp_images{
 		display: none;
 	}
 	.qlean {
-		padding-top: 10px;
-		padding-bottom: 50px;
-		border-top: 5px solid white;
+    	background: #222;
+    	border-radius: 20px;
+    	padding: 30px;
+    	margin-bottom: 20px;
 	}
 	.main-txt {
 		margin-right: 0px;
@@ -364,7 +365,7 @@ aside p {
 	}
 	.main {
 		display: block;
-		padding-bottom: 30px
+		padding-bottom: 10px
 	}
 	.qlean_txt {
 		width: 100%;
@@ -374,7 +375,8 @@ aside p {
 		line-height: 35px;
 	}
 	.zp {
-		padding-top: 10px;
-    	border-top: 5px solid white;
+		background: #222;
+    	border-radius: 20px;
+    	padding: 30px;
 	}
 }
