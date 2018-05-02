@@ -337,13 +337,13 @@ aside p {
 		width: 80%;
 	}
 	h1 {
-		font-size: 60px;
-		line-height: 65px;
+		font-size: 50px;
+		line-height: 55px;
 		margin-bottom: 20px;
 	}
 	h4 {
-		font-size: 30px;
-		line-height: 40px;
+		font-size: 25px;
+		line-height: 35px;
 		margin-bottom: 5px;
 	}
 	aside {
@@ -377,15 +377,15 @@ aside p {
 		width: 160px;
 	}
 	.main-txt_lead {
-		font-size: 25px;
-		line-height: 40px;
+		font-size: 20px;
+		line-height: 35px;
 		width: 100%;
+	}
+	p, .qlean_txt p, .zp p {
+		font-size: 20px;
+		line-height: 35px;
 	}
 	.main {
 		padding: 0 30px 30px;
-	}
-	p, .qlean_txt p, .zp p {
-		font-size: 25px;
-		line-height: 40px;
 	}
 }
