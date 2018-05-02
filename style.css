@@ -335,17 +335,16 @@ aside p {
 @media only screen and (max-width: 980px) {
     .wrapper {
 		width: 80%;
-		background: red;
 	}
 	h1 {
-		font-size: 50px;
-		line-height: 55px;
+		font-size: 60px;
+		line-height: 65px;
 		margin-bottom: 20px;
 	}
 	h4 {
-		font-size: 25px;
-		line-height: 35px;
-		margin-bottom: 10px;
+		font-size: 30px;
+		line-height: 40px;
+		margin-bottom: 5px;
 	}
 	aside {
 		display: none;
@@ -356,8 +355,8 @@ aside p {
 	.qlean {
     	background: #222;
     	border-radius: 20px;
-    	padding: 30px;
     	margin-bottom: 20px;
+    	padding: 30px;
 	}
 	.zp {
 		background: #222;
@@ -374,22 +373,19 @@ aside p {
 	.qlean_txt {
 		width: 100%;
 	}
-	.qlean_txt img {
-		width: 60%;
-	}
-	.app img {
-		width: 60%;
+	.qlean_txt img, .app img {
+		width: 160px;
 	}
 	.main-txt_lead {
-		font-size: 20px;
-		line-height: 35px;
+		font-size: 25px;
+		line-height: 40px;
 		width: 100%;
 	}
 	.main {
 		padding-bottom: 10px
 	}
 	p, .qlean_txt p, .zp p {
-		font-size: 20px;
-		line-height: 35px;
+		font-size: 25px;
+		line-height: 40px;
 	}
 }
