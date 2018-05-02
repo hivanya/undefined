@@ -335,6 +335,7 @@ aside p {
 @media only screen and (max-width: 980px) {
     .wrapper {
 		width: 90%;
+		padding-top: 50px;
 	}
 	h1 {
 		font-size: 50px;
@@ -390,6 +391,7 @@ aside p {
 	}
 	.copyright {
 		font-size: 20px;
-		line-height: 30px;	
+		line-height: 30px;
+		padding: 30px 0px 30px;
 	}
 }
