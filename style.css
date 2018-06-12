@@ -25,7 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	background: #1a1a1a;
+	background: #181818;
 }
 ol, ul {
 	list-style: none;
@@ -47,6 +47,9 @@ table {
 	margin: auto;
 	padding-top: 80px;
 	position: relative;
+}
+.of_mobile {
+	display: none;
 }
 body {
 	font-family: 'Open Sans', sans-serif;
@@ -140,9 +143,9 @@ aside p {
 }
 .qlean_pic_web {
 	width: 800px;
-	height: 910px;
+	height: 845px;
 	margin-right: 40px;
-	margin-bottom: 80px;
+	margin-bottom: 60px;
 }
 .qlean_pic_mobile {
 	position: absolute;
@@ -173,7 +176,7 @@ aside p {
 	align-items: flex-start;
 }
 .qlean_order_face {
-	margin-right: 40px;
+	margin-right: 30px;
 }
 .qlean_order-link {
 	margin-top: 12px;
@@ -334,12 +337,12 @@ aside p {
 }
 @media only screen and (max-width: 980px) {
     .wrapper {
-		width: 90%;
+		width: 70%;
 		padding-top: 50px;
 	}
 	h1 {
-		font-size: 40px;
-		line-height: 45px;
+		font-size: 60px;
+		line-height: 65px;
 		margin-bottom: 20px;
 	}
 	h4 {
@@ -350,36 +353,55 @@ aside p {
 	aside {
 		display: none;
 	}
-	.of, .qlean-link img, .qlean_pic_web, .qlean_pic_mobile, .qlean_order img, .qlean_order h3, .qlean_family, .qlean_family_txt, .zp_images{
+	.qlean-link img, .qlean_pic_web, .qlean_pic_mobile, .qlean_order img, .qlean_order h3, .qlean_family, .qlean_family_txt, .zp_images{
 		display: none;
 	}
 	.qlean {
-    	background: #222;
+    	background: #1d1d1d;
     	border-radius: 10px;
     	margin-bottom: 20px;
-    	padding: 20px;
+    	padding: 30px 40px 20px 40px;
+	}
+	.of_mobile {
+    	background: #1d1d1d;
+    	border-radius: 10px;
+    	margin-bottom: 20px;
+    	padding: 30px 40px 20px 40px;
+	}
+	.of {
+		display: none;
+	}
+	.of_mobile {
+		display: block;
+	}
+	.of_mobile p {
+		color: #555;
+		margin-bottom: 10px;
 	}
 	.zp {
-		background: #222;
+		background: #1d1d1d;
     	border-radius: 10px;
-    	padding: 20px;
+    	padding: 30px 40px 20px 40px;
 	}
 	.zp_about {
 		margin-right: 0px;
 	}
 	.main-txt {
 		margin-right: 0px;
-		margin-bottom: 0px;
+		margin-bottom: 10px;
 	}
 	.qlean_txt {
 		width: 100%;
+		padding-top: 0px;
 	}
 	.qlean_txt img, .app img {
 		width: 160px;
+		display: inline-block;
+		margin-right: 10px;
 	}
 	.main-txt_lead {
-		font-size: 20px;
-		line-height: 30px;
+		font-size: 25px;
+		line-height: 40px;
 		width: 100%;
 	}
 	p, .qlean_txt p, .zp p {
@@ -387,7 +409,7 @@ aside p {
 		line-height: 30px;
 	}
 	.main {
-		padding: 0 20px;
+		padding: 0 40px;
 	}
 	.copyright {
 		font-size: 20px;
