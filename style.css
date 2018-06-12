@@ -337,12 +337,12 @@ aside p {
 }
 @media only screen and (max-width: 980px) {
     .wrapper {
-		width: 80%;
+		width: 90%;
 		padding-top: 50px;
 	}
 	h1 {
-		font-size: 40px;
-		line-height: 45px;
+		font-size: 30px;
+		line-height: 35px;
 		margin-bottom: 20px;
 	}
 	h4 {
