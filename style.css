@@ -360,13 +360,13 @@ aside p {
     	background: #1d1d1d;
     	border-radius: 10px;
     	margin-bottom: 20px;
-    	padding: 30px 40px 20px 40px;
+    	padding: 30px 30px 20px 40px;
 	}
 	.of_mobile {
     	background: #1d1d1d;
     	border-radius: 10px;
     	margin-bottom: 20px;
-    	padding: 30px 40px 20px 40px;
+    	padding: 30px 30px 20px 40px;
 	}
 	.of {
 		display: none;
@@ -381,7 +381,7 @@ aside p {
 	.zp {
 		background: #1d1d1d;
     	border-radius: 10px;
-    	padding: 30px 40px 20px 40px;
+    	padding: 30px 30px 20px 40px;
 	}
 	.zp_about {
 		margin-right: 0px;
@@ -401,7 +401,7 @@ aside p {
 	}
 	.main-txt_lead {
 		font-size: 20px;
-		line-height: 25px;
+		line-height: 30px;
 		width: 100%;
 	}
 	p, .qlean_txt p, .zp p {
@@ -409,7 +409,7 @@ aside p {
 		line-height: 30px;
 	}
 	.main {
-		padding: 0 40px;
+		padding: 0 30px;
 	}
 	.copyright {
 		font-size: 20px;
