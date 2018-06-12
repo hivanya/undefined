@@ -112,7 +112,7 @@ a:hover {
 }
 .main-txt {
 	margin-right: 160px;
-	margin-bottom: 90px;
+	margin-bottom: 60px;
 }
 .main-txt_lead {
 	font-size: 30px;
@@ -337,12 +337,12 @@ aside p {
 }
 @media only screen and (max-width: 980px) {
     .wrapper {
-		width: 70%;
+		width: 80%;
 		padding-top: 50px;
 	}
 	h1 {
-		font-size: 60px;
-		line-height: 65px;
+		font-size: 40px;
+		line-height: 45px;
 		margin-bottom: 20px;
 	}
 	h4 {
