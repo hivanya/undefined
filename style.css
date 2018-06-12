@@ -346,8 +346,8 @@ aside p {
 		margin-bottom: 20px;
 	}
 	h4 {
-		font-size: 20px;
-		line-height: 25px;
+		font-size: 25px;
+		line-height: 35px;
 		margin-bottom: 5px;
 	}
 	aside {
@@ -400,8 +400,8 @@ aside p {
 		margin-right: 10px;
 	}
 	.main-txt_lead {
-		font-size: 25px;
-		line-height: 40px;
+		font-size: 20px;
+		line-height: 25px;
 		width: 100%;
 	}
 	p, .qlean_txt p, .zp p {
